@@ -1,0 +1,7 @@
+{
+  "name": "food-ordering-workspace",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx serve food-ordering"
+  }
+}
